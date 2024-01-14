@@ -8,7 +8,7 @@
 ### 👨‍💻 Tech Enthusiast
 
 - 🚀 Eager to take on challenges and always up for new, exciting projects.
-- 💡 Beginner with decent knowledge in JavaScript, Java, Python, C, HTML5, and CSS3.
+- 💡 Beginner with decent knowledge and eager to know more.
 - 🌱 Continuously learning and expanding my skills in the ever-evolving tech landscape.
 
 ### 🌟 Let's Code Together!
